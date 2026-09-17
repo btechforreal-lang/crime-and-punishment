@@ -1,0 +1,4 @@
+[
+  { "id": "raskolnikov", "name": "Rodion Raskolnikov", "role": "A former student", "firstAppearance": "part-1-chapter-1", "chapters": ["part-1-chapter-1"], "locations": ["raskolnikov-room"] },
+  { "id": "landlady", "name": "The landlady", "role": "His unwilling host", "firstAppearance": "part-1-chapter-1", "chapters": ["part-1-chapter-1"], "locations": ["raskolnikov-room"] }
+]

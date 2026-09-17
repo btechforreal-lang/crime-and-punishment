@@ -1,0 +1,5 @@
+[
+  { "id": "raskolnikov-room", "name": "Raskolnikov's Room", "description": "A cramped garret beneath the roof, suspended between heat and silence.", "chapters": ["part-1-chapter-1"] },
+  { "id": "pawnbroker-room", "name": "The Pawnbroker's Room", "description": "An ordinary interior made uncomfortable by its narrowness.", "chapters": [] },
+  { "id": "bridge", "name": "The Bridge", "description": "A recurring threshold above dark, moving water.", "chapters": [] }
+]

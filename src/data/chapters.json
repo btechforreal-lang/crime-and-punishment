@@ -1,0 +1,19 @@
+{
+  "id": "part-1-chapter-1",
+  "part": 1,
+  "chapter": 1,
+  "title": "Chapter I",
+  "scene": "raskolnikov-room",
+  "location": "raskolnikov-room",
+  "characters": ["raskolnikov"],
+  "text": [
+    "On an exceptionally hot evening early in July a young man came out of the garret in which he lodged in S. Place and walked slowly, as though in hesitation, towards K. bridge.",
+    "He had successfully avoided meeting his landlady on the staircase. His garret was under the roof of a high, five-storied house and was more like a cupboard than a room. The landlady, who provided him with dinners, service, and attendance, lived on the floor below, and every time he went out he was obliged to pass her kitchen, the door of which invariably stood open. And each time he passed he felt sick and cowardly, and was in agony at the thought of meeting her.",
+    "He was not cowardly or sick at heart. On the contrary, he was in an overstrained irritable state, very much resembling hypochondria. He was so completely absorbed in himself and isolated from his fellows that he was afraid of meeting not only his landlady but anyone at all. He was crushed by poverty, but the anxious state of his mind of late had made him indifferent to his surroundings.",
+    "He had given up eating and drinking sufficiently, and his clothes were so shabby that anyone else, even accustomed to such things, would have been ashamed to go out in the daytime in such rags. But the quarter in which he lived was not far from the centre of the town and was characteristically crowded with streets and alleys; in the neighbourhood, people dressed in rags were not looked at with surprise.",
+    "When he reached the street he was overcome by the heat. The air was close, the dust rose from the pavement, and the smell of mortar and brick dust made him feel faint. He walked on without noticing the people around him, thinking of the room, the door, the narrow staircase, and the small errand which had brought him out.",
+    "The room was a low, cramped place, with a bed pushed against one wall and a table beneath the window. Light entered reluctantly through dirty glass. On the table lay a few sheets of paper, a cup gone cold, and a book that had not been opened for days. Everything seemed to wait with him."
+  ],
+  "reflection": "What happens when an abstract idea is allowed to outrank a human life?",
+  "ambient": "raskolnikov-room"
+}
